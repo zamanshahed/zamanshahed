@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zamanshahed
 - 👀 interested in web tech
 - 🌱 I’m currently learning node.js based works
-- 💞️ looking to collaborate on frontend
+- 💞️ looking forward to collaborate on frontend
 - 📫 to reach me (sumonshd@gmail.com, or mail here.)
 
 <!---
