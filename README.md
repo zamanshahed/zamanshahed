@@ -2,7 +2,7 @@
 - 👀 interested in web tech
 - 🌱 I’m currently learning node.js based works
 - 💞️ looking forward to collaborate on frontend
-- 📫 to reach me (sumonshd@gmail.com, or mail here.)
+- 📫 to reach me (shaheduz.zaman@northsouth.edu)
 
 <!---
 zamanshahed/zamanshahed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
