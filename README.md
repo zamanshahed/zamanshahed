@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zamanshahed
 - 👀 interested in web tech
-- 🌱 I’m currently learning node.js based works
+- 🌱 I’m currently learning react.js based works
 - 💞️ looking forward to collaborate on frontend
 - 📫 to reach me (shaheduz.zaman@northsouth.edu)
 
