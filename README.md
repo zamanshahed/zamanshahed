@@ -12,8 +12,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zamanshahed&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zamanshahed)  
-
 ![GitHub metrics](https://metrics.lecoq.io/zamanshahed)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=zamanshahed)  
