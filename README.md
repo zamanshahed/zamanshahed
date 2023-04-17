@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zamanshahed
 - 👀 interested in web tech
-- 🌱 I’m currently learning react.js & react-native based works
+- 🌱 I’m currently focusing on react.js & react based web technologies
 - 💞️ looking forward to collaborate on frontend
 - 📫 to reach me (sumonshd@gmail.com)
 
