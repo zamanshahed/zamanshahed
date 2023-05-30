@@ -6,5 +6,6 @@ With over a year of professional experience, I'm dedicated to building intuitive
 
 Connect with me:
 
-Website: zamanshahed.vercel.app
-LinkedIn: linkedin.com/in/zamanshahed
+Website: http://zamanshahed.vercel.app
+
+LinkedIn: http://linkedin.com/in/zamanshahed
