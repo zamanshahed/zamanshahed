@@ -7,4 +7,4 @@ Web Developer
 * 🌍  I'm from Dhaka, Bangladesh.
 * 🖥️  See my portfolio at [zamanShahed](http://zamanshahed.vercel.app)
 * ✉️  You can contact me at [sumonshd@gmail.com](mailto:sumonshd@gmail.com)
-* 🤝  I'm open to collaborating on interesting frontend technologies
+* 🤝  I'm open to collaborating on ReactJs NextJs and other frontend technologies
