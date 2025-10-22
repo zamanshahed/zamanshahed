@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm from Dhaka, Bangladesh.
-* 🖥️  See my portfolio at [zamanShahed](http://zamanshahed.vercel.app)
+* 🖥️  See my portfolio at [zamanShahed.vercel.app](http://zamanshahed.vercel.app)
 * ✉️  You can contact me at [sumonshd@gmail.com](mailto:sumonshd@gmail.com)
 * 🤝  I'm open to collaborating on Astro, ReactJs, NextJs and other frontend technologies
 
